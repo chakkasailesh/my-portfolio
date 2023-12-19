@@ -1,5 +1,6 @@
 import React from 'react'
 import spotify from '../assets/portfolio/spotify-2.0.jpg'
+import comingsoon from '../assets/portfolio/comingsoon.jpg'
 
 const Portfolio = () => {
   const portfolios = [
@@ -11,9 +12,9 @@ const Portfolio = () => {
     },
     {
       id: 2,
-      src: spotify,
-      demo: 'https://gilded-biscochitos-0e31e7.netlify.app/',
-      repo: 'https://github.com/chakkasailesh/spotify-clone',
+      src: comingsoon,
+      demo: 'https://gilded-biscochitos-0e31.netlify.app/',
+      repo: 'https://github.com/chakkasailesh',
     },
   ]
   return (

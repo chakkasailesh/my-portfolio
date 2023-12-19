@@ -15,10 +15,9 @@ const Home = () => {
             I'm a Full Stack Developer
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus
-            accusantium earum quo sint expedita voluptatem rem! Eaque
-            reprehenderit quae exercitationem maxime sint, ullam recusandae fuga
-            unde vel repudiandae molestiae consectetur.
+            Empowering digital experiences with 2.5 years of full-stack
+            expertise. Crafting your vision into seamless, impactful web
+            solutions.
           </p>
           <div>
             <Link

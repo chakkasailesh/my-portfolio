@@ -13,21 +13,26 @@ const About = () => {
           </p>
         </div>
         <p className="text-xl mt-20">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis fugit
-          exercitationem sequi cum! Voluptatibus enim ut veritatis accusantium
-          quos voluptate, quo voluptatum dolores, necessitatibus expedita sunt
-          dignissimos assumenda! Aperiam, suscipit temporibus ducimus
-          praesentium, eaque maxime sint error obcaecati quos voluptas autem
-          molestias adipisci totam facilis nostrum illo fugit at itaque.
+          Hello, I'm Sailesh 👋. With 2.5 years of experience at Infosys, I'm a
+          full-stack developer who thrives on bridging the gap between front-end
+          aesthetics and back-end muscle. Whether it's weaving magic with
+          Java/Spring Boot or orchestrating the dance of ReactJS and NodeJS, I
+          relish diving deep into code to craft solutions that resonate. But my
+          toolkit extends beyond lines of script. As a quick learner with a
+          passion for knowledge, I'm constantly pushing boundaries, and
+          exploring new technologies. This insatiable curiosity fuels my ability
+          to adapt and innovate, keeping me ahead of the curve in this
+          ever-evolving digital landscape.
         </p>
         <br />
         <p className="text-xl">
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Optio
-          tempora voluptatem, accusamus cum esse aspernatur minima ex quis quia?
-          Eligendi laboriosam repellat facere? Eos nostrum commodi maiores,
-          quasi accusamus nesciunt minima non quisquam eveniet molestiae facere
-          quod amet at quis iure illo odit provident cum suscipit quaerat, ut
-          iste similique?
+          Beyond code, my heart races with the thrill of a perfectly timed
+          yorker. This love for the game translates into my work ethic – a
+          dedication to precision, teamwork, and a relentless pursuit of
+          improvement. So, if you're looking for a full-stack developer who's as
+          adept at navigating complex frameworks as dismantling a batting order,
+          let's talk! My bat may be gathering dust, but my code is poised to
+          leave even the most seasoned batsman clean bowled.
         </p>
       </div>
     </div>
