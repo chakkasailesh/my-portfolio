@@ -15,18 +15,6 @@ const Portfolio = () => {
       demo: 'https://gilded-biscochitos-0e31e7.netlify.app/',
       repo: 'https://github.com/chakkasailesh/spotify-clone',
     },
-    {
-      id: 3,
-      src: spotify,
-      demo: 'https://gilded-biscochitos-0e31e7.netlify.app/',
-      repo: 'https://github.com/chakkasailesh/spotify-clone',
-    },
-    {
-      id: 4,
-      src: spotify,
-      demo: 'https://gilded-biscochitos-0e31e7.netlify.app/',
-      repo: 'https://github.com/chakkasailesh/spotify-clone',
-    },
   ]
   return (
     <div
@@ -63,7 +51,7 @@ const Portfolio = () => {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  Repo
+                  Source
                 </a>
               </div>
             </div>
