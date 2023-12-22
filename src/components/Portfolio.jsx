@@ -1,5 +1,6 @@
 import React from 'react'
 import spotify from '../assets/portfolio/spotify-2.0.jpg'
+import hoobank from '../assets/portfolio/hoobank.jpg'
 import comingsoon from '../assets/portfolio/comingsoon.jpg'
 
 const Portfolio = () => {
@@ -12,6 +13,12 @@ const Portfolio = () => {
     },
     {
       id: 2,
+      src: hoobank,
+      demo: 'https://wondrous-bublanina-7a894f.netlify.app/',
+      repo: 'https://github.com/chakkasailesh/HooBank',
+    },
+    {
+      id: 3,
       src: comingsoon,
       demo: 'https://gilded-biscochitos-0e31.netlify.app/',
       repo: 'https://github.com/chakkasailesh',
