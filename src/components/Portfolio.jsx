@@ -2,6 +2,7 @@ import React from 'react'
 import spotify from '../assets/portfolio/spotify-2.0.jpg'
 import hoobank from '../assets/portfolio/hoobank.jpg'
 import comingsoon from '../assets/portfolio/comingsoon.jpg'
+import dashboard from '../assets/portfolio/dashboard.jpg'
 
 const Portfolio = () => {
   const portfolios = [
@@ -19,6 +20,12 @@ const Portfolio = () => {
     },
     {
       id: 3,
+      src: dashboard,
+      demo: 'https://incredible-strudel-c1b149.netlify.app/',
+      repo: 'https://github.com/chakkasailesh/social-media-dashboard-with-theme-switcher',
+    },
+    {
+      id: 4,
       src: comingsoon,
       demo: 'https://gilded-biscochitos-0e31.netlify.app/',
       repo: 'https://github.com/chakkasailesh',
